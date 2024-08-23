@@ -2,16 +2,15 @@
 
 Este proyecto configura un servidor de correo local utilizando `poste.io` en un contenedor Docker, junto con un contenedor de Fedora personalizado para propósitos adicionales. El proyecto está diseñado para funcionar en un entorno local y es ideal para pruebas y desarrollos internos.
 
-## <div align="center">Estadísticas del Repositorio 📊</div>
+## Estadísticas del Repositorio 📊
 
-<div align="center">
-  ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)
-  ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-  ![GitHub stars](https://img.shields.io/github/stars/jmorales01/mailserver)
-  ![GitHub PRs](https://img.shields.io/github/issues-pr/jmorales01/mailserver)
-  ![GitHub forks](https://img.shields.io/github/forks/jmorales01/mailserver)
-  ![GitHub issues](https://img.shields.io/github/issues/jmorales01/mailserver)
-</div>
+![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub stars](https://img.shields.io/github/stars/jmorales01/mailserver)
+![GitHub PRs](https://img.shields.io/github/issues-pr/jmorales01/mailserver)
+![GitHub forks](https://img.shields.io/github/forks/jmorales01/mailserver)
+![GitHub issues](https://img.shields.io/github/issues/jmorales01/mailserver)
+
 
 ## Requisitos Previos 💻
 
