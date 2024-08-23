@@ -1,30 +1,33 @@
-# Proyecto de Servidor de Correo con Docker
+# Servidor de Correo con Docker 🚀
 
 Este proyecto configura un servidor de correo local utilizando `poste.io` en un contenedor Docker, junto con un contenedor de Fedora personalizado para propósitos adicionales. El proyecto está diseñado para funcionar en un entorno local y es ideal para pruebas y desarrollos internos.
 
-## Descripción del Proyecto
+## Estadísticas del Repositorio 📊
 
-El proyecto contiene dos servicios principales definidos en un archivo `docker-compose.yml`:
+![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub stars](https://img.shields.io/github/stars/jmorales01/mailserver)
+![GitHub PRs](https://img.shields.io/github/issues-pr/jmorales01/mailserver)
+![GitHub forks](https://img.shields.io/github/forks/jmorales01/mailserver)
+![GitHub issues](https://img.shields.io/github/issues/jmorales01/mailserver)
 
-1. **poste.io**: Un servidor de correo completo que incluye funcionalidades como SMTP, IMAP, POP3, Sieve, y soporte HTTPS.
-2. **Fedora**: Un contenedor de Fedora personalizado que puede ser utilizado para diversos propósitos de desarrollo y pruebas.
 
-## Requisitos Previos
+## Requisitos Previos 💻
 
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
-## Instrucciones de Ejecución
+## Instrucciones de Ejecución 🛠️
 
 ### 1. Clonar el Repositorio
 
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
+git clone https://github.com/jmorales01/mailserver.git
+cd mailserver
 ```
 
 ### 2. Configurar el Archivo hosts
@@ -75,11 +78,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-
-## ¡Gracias por visitar mi repositorio 🌟🧑‍💻
-
+## <div align="center">¡Gracias por visitar mi repositorio 🌟🧑‍💻</div>
 
 ---
+
 <div align="center" >
   <img src="./public/dashboard.png">
   <img src="./public/bandeja.png">
